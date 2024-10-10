@@ -1,16 +1,14 @@
-## Hi there 👋
+### Boas vindas ao meu perfil 💙
 
-<!--
-**taislinhares/Taislinhares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Taís Linhares
 
-Here are some ideas to get you started:
+Estou aprendendo o programa Java script 
+comecei a usar esse site para ter meus projetos mais organizados 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você entra em contato comigo :e-mail 📧
+
+linhares.tais@escola.pr.gov.br 
+
+@taislinhares233
+
+![](https://tenor.com/2RGU.gif)
