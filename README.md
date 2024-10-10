@@ -11,4 +11,4 @@ linhares.tais@escola.pr.gov.br
 
 @taislinhares233
 
-![](https://tenor.com/2RGU.gif)
+![](https://tenor.com/bmGCo.gif) 
